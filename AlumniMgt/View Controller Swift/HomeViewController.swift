@@ -1,0 +1,33 @@
+//
+//  HomeViewController.swift
+//  AlumniMgt
+//
+//  Created by Xperience 09 on 10/1/20.
+//  Copyright © 2020 Xperience 09. All rights reserved.
+//
+
+import UIKit
+
+class HomeViewController: UIViewController {
+
+   
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.hideKeyboardWhenTappedAround()
+        // Do any additional setup after loading the view.
+    }
+  
+    
+    
+
+   
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+   // override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        
+   // }
+    
+}
+
